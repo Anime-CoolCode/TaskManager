@@ -40,7 +40,7 @@ class MyWidget extends StatelessWidget {
         child: Container(
           decoration: BoxDecoration(
             gradient: LinearGradient(colors: [Colors.blue.shade200 , Colors.blueAccent.shade100])
-          ),
+          ),// hey
           child:
             Card(
               elevation: 10,
